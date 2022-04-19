@@ -1,1 +1,1 @@
-{"base": "90d3616", "parent": "debian/rolling/warehouse_ros", "previous": "0afdf77", "trim": "", "trimbase": ""}
+{"base": "0a2644e", "parent": "debian/humble/warehouse_ros", "previous": "8714930", "trim": "", "trimbase": ""}
